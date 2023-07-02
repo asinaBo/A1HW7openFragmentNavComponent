@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">A1HW7openFragmentNavComponent</string>
+    <string name="alive">Alive</string>
+    <string name="rock">Rock Sanchez</string>
+
+
+    <!-- images-->
+    <string name="img_a">Taylor</string>
+    <string name="img_b">Taylor</string>
+    <string name="img_c">Taylor</string>
+    <string name="img_d">Taylor</string>
+    <string name="img_e">Taylor</string>
+    <string name="img_f">Taylor</string>
+    <string name="img_g">Taylor</string>
+    <string name="img_h">Taylor</string>
+    <string name="img_i">Taylor</string>
+    <string name="img_j">Taylor</string>
+    <string name="img_k">Taylor</string>
+    <string name="img_l">Taylor</string>
+    <string name="img_m">Taylor</string>
+
+    <!-- songs-->
+
+    <string name="song1">Blank Space</string>
+    <string name="song2">Sebelep</string>
+    <string name="song3">Big girls dont cry</string>
+    <string name="song4">Hero</string>
+    <string name="song5">On</string>
+    <string name="song6">Lilya</string>
+    <string name="song7">Believer</string>
+    <string name="song8">Wrecked</string>
+    <string name="song9">Jingle</string>
+    <string name="song10">Time</string>
+    <string name="song11">Summer Song</string>
+    <string name="song12">Italiano</string>
+    <string name="song13">Chocolate</string>
+
+    <!-- singers-->
+    <string name="singer1">Taylor Swift</string>
+    <string name="singer2">Jax</string>
+    <string name="singer3">Fergue</string>
+    <string name="singer4">Enrique Igleseas</string>
+    <string name="singer5">BTS</string>
+    <string name="singer6">Jax</string>
+    <string name="singer7">Imagine Dragons</string>
+    <string name="singer8">Imagine Dragpns</string>
+    <string name="singer9">Jey</string>
+    <string name="singer10">Adriano</string>
+    <string name="singer11">Selena Gomes</string>
+    <string name="singer12">Chelentano</string>
+    <string name="singer13">Bruno Mars</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
